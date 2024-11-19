@@ -3,7 +3,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://hk.com.ar/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://hk.com.ar/" target="blank">HK IT EXPERTS as SA OPERATOR</a>
 
 - 🌱 I am currently working on the parameterization and support of I-SOL (SQL)
 
